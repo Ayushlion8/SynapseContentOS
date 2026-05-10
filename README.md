@@ -12,23 +12,23 @@ One operator. 50 channels. 250 reels/day. Zero manual effort.
 ┌─────────────────────────────────────────────────────────────┐
 │                    MATIKS CONTENT OS                        │
 │                                                             │
-│  ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌──────────┐  │
-│  │ 14 AI    │  │ Feedback │  │  Trend   │  │ Knowledge│  │
-│  │ Agents   │──│ Loop     │──│ Intel    │──│ Graph    │  │
-│  │          │  │ Engine   │  │ Engine   │  │          │  │
-│  └──────────┘  └──────────┘  └──────────┘  └──────────┘  │
+│  ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌──────────┐     │
+│  │ 14 AI    │  │ Feedback │  │ Trend    │  │ Knowledge│     │
+│  │ Agents   │──│ Loop     │──│ Intel    │──│ Graph    │     │ 
+│  │          │  │ Engine   │  │ Engine   │  │          │     │
+│  └──────────┘  └──────────┘  └──────────┘  └──────────┘     │
 │       │              │              │              │        │
 │       ▼              ▼              ▼              ▼        │
-│  ┌──────────────────────────────────────────────────────┐  │
-│  │           Reel Generation Pipeline                    │  │
-│  │  Trend → Script → Storyboard → Visual → Voice → Edit │  │
-│  └──────────────────────────────────────────────────────┘  │
+│  ┌──────────────────────────────────────────────────────┐   │
+│  │           Reel Generation Pipeline                   │   │
+│  │  Trend → Script → Storyboard → Visual → Voice → Edit │   │
+│  └──────────────────────────────────────────────────────┘   │ 
 │                          │                                  │
 │                          ▼                                  │
-│  ┌──────────────────────────────────────────────────────┐  │
-│  │        Self-Improving Content Intelligence            │  │
-│  │  Retention → Feedback → Strategy Adjustment → Agents  │  │
-│  └──────────────────────────────────────────────────────┘  │
+│  ┌──────────────────────────────────────────────────────┐   │
+│  │        Self-Improving Content Intelligence           │   │
+│  │  Retention → Feedback → Strategy Adjustment → Agents │   │
+│  └──────────────────────────────────────────────────────┘   │
 └─────────────────────────────────────────────────────────────┘
 ```
 
